@@ -1,0 +1,19 @@
+ASHIM Gautam 
+Assignment 1
+1
+ Pandas is a go-to library for data manipulation and analysis. It introduces powerful data structures like DataFrame and Series, making it easy to work with tabular data. With Pandas, we can effortlessly clean, manipulate, and analyze data from various sources.
+
+2
+NumPy is the foundation of numerical computing in Python. It offers efficient handling of large arrays and matrices with its ndarray object, plus a suite of mathematical functions for operations like linear algebra and statistics. It’s often used alongside Pandas and SciPy for more advanced data processing.
+
+3
+TensorFlow is a robust machine learning framework developed by Google. It’s designed for building and training complex machine learning and deep learning models, supporting both CPU and GPU computation. TensorFlow’s flexibility and powerful tools make it a popular choice for deep learning projects.
+
+4
+Keras is a high-level API for building neural networks that runs on top of TensorFlow and other backends. It simplifies the process of creating and training deep learning models with its user-friendly interface, pre-built layers, and intuitive design.
+
+5
+scikit-learn (sklearn) is a versatile library for traditional machine learning. It provides a wide range of algorithms and tools for tasks like classification, regression, clustering, and model evaluation. It integrates seamlessly with NumPy and Pandas, making it a staple for data science projects.
+
+6
+PyTorch is a dynamic machine learning library from Facebook. It’s known for its flexible computation graph and ease of use, particularly for deep learning. PyTorch supports GPU acceleration and offers a straightforward approach to building and training neural networks.
